@@ -4,10 +4,10 @@ In this application, I created a chat for lonely people. It means that you can l
 
 I hope, that you are not alone, but anyway, here is a login/passwords for testing. 
 
-biba - biba
-boba - boba
-lupa - lupa
-pupa - pupa
+biba - biba\
+boba - boba\
+lupa - lupa\
+pupa - pupa\
 
 And a couple of screenshots of this application.
 
