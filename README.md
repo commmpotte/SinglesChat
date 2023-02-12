@@ -1,4 +1,20 @@
-# React Project for the React Course
+# React Project for training 
+
+In this application, I created a chat for lonely people. It means that you can log in to different pages and usernames will be connected only to certain tabs via sessionStorage. Here is no server part, instead of it I used IndexedDB (via Dexie). Chat history is global for a whole browser. Also, you can check a list of participants in this chat. And I set up an easy-looking & simple Bootstrap layout. 
+
+I hope, that you are not alone, but anyway, here is a login/passwords for testing. 
+
+biba - biba
+boba - boba
+lupa - lupa
+pupa - pupa
+
+And a couple of screenshots of this application.
+
+<img width="1280" alt="Снимок экрана 2023-02-12 в 11 22 13" src="https://user-images.githubusercontent.com/95095531/218300574-5ee91bb7-4864-4c4c-8287-9cff09f1ca9c.png">
+<img width="1280" alt="Снимок экрана 2023-02-12 в 11 22 31" src="https://user-images.githubusercontent.com/95095531/218300576-5b3163e1-7aec-4740-a767-c52fbdd53b10.png">
+<img width="673" alt="Снимок экрана 2023-02-12 в 11 23 31" src="https://user-images.githubusercontent.com/95095531/218300578-5f07de92-ef58-464b-8dbb-e4016c79f61e.png">
+
 
 ## Available Scripts
 
