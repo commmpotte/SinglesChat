@@ -7,7 +7,7 @@ I hope, that you are not alone, but anyway, here is a login/passwords for testin
 biba - biba\
 boba - boba\
 lupa - lupa\
-pupa - pupa\
+pupa - pupa
 
 And a couple of screenshots of this application.
 
